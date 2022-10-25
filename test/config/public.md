@@ -1,1 +1,1 @@
-Here is the link to the file from other repository [test]
+Here is the link to the file from other repository [test]("https://infinum.com/handbook/")
